@@ -2,4 +2,4 @@
 
 #İnstallition:
 
-You can install this plugin, downloading the .dll file and placing it in ``SCP Secret Laboratory/PluginAPI/plugins/global or your port``.
+You can install this plugin, downloading the .dll file and placing it in ``AppData\Roaming\EXILED\Plugins``.
